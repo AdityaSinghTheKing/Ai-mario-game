@@ -1,0 +1,26 @@
+.heading{
+    width: 100%;
+}
+h3{
+    display: inline;
+}
+#instructions{
+    float:right;
+}
+.bigimage{
+    width:100%;
+}
+.modal-dialog{
+    width: 90%;
+}
+.image1{
+    display:inline-block;
+    width: 45%;
+}
+#credit{
+    line-height:3;
+    background-color: lightgrey;
+    text-align: center;
+    width: 100%;
+    margin: 0px;
+}
